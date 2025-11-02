@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#0d1b2a; padding: 40px 20px; border-radius:20px;">
 
-<img src="https://www.smartnexai.com/logo.png" alt="SmartNex.ai Logo" width="120" />
+<img src="https://www.smartnexai.com/assets/logo.png" alt="SmartNex.ai Logo" width="120" />
 
 # <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">SmartNex.ai</span>
 
