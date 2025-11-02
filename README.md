@@ -6,7 +6,7 @@
 
 ### Empowering businesses with next-generation Artificial Intelligence solutions.
 
-[🌐 Website](https://www.smartnexai.com) • [💼 Careers](https://www.smartnexai.com/careers) • [📩 Contact](mailto:contact@smartnexai.com)
+[🌐 Website](https://www.smartnexai.com) • [💼 Careers](https://www.smartnexai.com/contact) • [📩 Contact](https://www.smartnexai.com/contact)
 
 </div>
 
