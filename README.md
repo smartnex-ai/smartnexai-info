@@ -54,10 +54,11 @@ We strive to make AI accessible, transparent, and impactful for everyone.
 
 We’re open to **collaborations**, **internships**, and **partnerships** with talented individuals who want to build the future of AI.  
 
-📧 **contact@smartnexai.com**
+[📩 Contact](https://www.smartnexai.com/contact)
+
+📞 +91 9014551644
 
 ---
-
 <div align="center">
 
 ### Made with ❤️ by the <span style="color:#00c6ff;">SmartNex.ai</span> Team  
